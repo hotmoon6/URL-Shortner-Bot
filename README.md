@@ -15,16 +15,13 @@ License -> https://github.com/FayasNoushad/URL-Shortner-Bot/blob/main/LICENSE
 
 ## Deploy 
 
-<details>
-  <summary><b>Deploy on Heroku</b></summary>
-<br/>
-
-<p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/URL-Shortner-Bot/tree/main">
-     <img height="30px" src"https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?logo=heroku">
-  </a>
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/BXBotz/URL-Shortner-Bot/tree/main">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 </p>
-
 </details>
 
 <details>
