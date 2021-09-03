@@ -21,7 +21,7 @@ License -> https://github.com/FayasNoushad/URL-Shortner-Bot/blob/main/LICENSE
 
 <p align="left">
   <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/URL-Shortner-Bot/tree/main">
-     <img height="30px" "https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+     <img height="30px" src"https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?logo=heroku">
   </a>
 </p>
 
