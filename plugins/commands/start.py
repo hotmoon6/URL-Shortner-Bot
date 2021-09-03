@@ -14,8 +14,9 @@ Made by @FayasNoushad
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://telegram.me/FayasNoushad')
-        ]]
+        InlineKeyboardButton('Updates Channel', url='https://telegram.me/BX_Botz'),
+        InlineKeyboardButton('Support Group', url='https://telegram.me/BXSUPPORT')
+         ]]
     )
 
 @Client.on_message(filters.private & filters.command(["start"]))
