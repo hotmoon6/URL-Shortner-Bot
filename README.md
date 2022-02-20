@@ -18,7 +18,7 @@ License -> https://github.com/FayasNoushad/URL-Shortner-Bot/blob/main/LICENSE
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/BXBotz/URL-Shortner-Bot/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/hotmoon6/URL-Shortner-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
