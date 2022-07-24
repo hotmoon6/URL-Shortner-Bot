@@ -60,7 +60,7 @@ async def short(link):
         try:
             s = Shortener(api_key=CUTTLY_API)
             url = s.cuttly.short(link)
-            shorten_urls += f"\n**Cutt.ly :-** {url}"
+            shorten_urls += f"\n**Cutt.ly :-** {`url`}"
         except Exception as error:
             print(f"Cutt.ly error :- {error}")
     
