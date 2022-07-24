@@ -14,8 +14,8 @@ Made by AssFucker👿
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Updates Channel', url='https://telegram.me/JavStore_robot'),
-        InlineKeyboardButton('Support Group', url='https://telegram.me/JAVSTORE_ROBOT')
+        InlineKeyboardButton('JAV STORE', url='https://telegram.me/JavStore_robot'),
+        InlineKeyboardButton('JAV X MOVIES', url='https://telegram.me/JAVSTORE_ROBOT')
          ]]
     )
 
