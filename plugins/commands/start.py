@@ -5,7 +5,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 START_TEXT = """
 Hello {} 😌
-I am a link shortner telegram bot.
+I am Cuttly shortner telegram bot.
 
 >> `I can short any type of link`
 
