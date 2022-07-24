@@ -9,13 +9,13 @@ I am a link shortner telegram bot.
 
 >> `I can short any type of link`
 
-Made by Lucifer👿
+Made by AssFucker👿
 """
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Updates Channel', url='https://telegram.me/'),
-        InlineKeyboardButton('Support Group', url='https://telegram.me/')
+        InlineKeyboardButton('Updates Channel', url='https://telegram.me/JavStore_robot'),
+        InlineKeyboardButton('Support Group', url='https://telegram.me/JAVSTORE_ROBOT')
          ]]
     )
 
