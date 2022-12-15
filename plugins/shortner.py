@@ -14,7 +14,7 @@ CUTTLY_API = os.environ.get("CUTTLY_API", None)
 
 BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton(text='⚙ Join X Channel ⚙', url='https://telegram.me/JAVSTORE_robot')
+        InlineKeyboardButton(text='⚙ Owner ⚙', url='https://telegram.me/arvinxoxo')
         ]]
     )
 
@@ -66,7 +66,7 @@ async def short(link):
     
     # Send the text
     try:
-        shorten_urls += "\n\nMade by AssFucker!"
+        shorten_urls += "\n\n▽ 𐒡ᎵᎥᏧ𐒢𐒍 | Ⓒ Mindflayer's Mirror"
         return shorten_urls
     except Exception as error:
         return error
