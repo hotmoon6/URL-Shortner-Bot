@@ -4,18 +4,17 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 START_TEXT = """
-Hello {} 😌
+Hello {} ✨
 I am Cuttly shortner telegram bot.
 
 >> `I can short any type of link`
 
-Made by AssFucker👿
+▽ 𐒡ᎵᎥᏧ𐒢𐒍 | Ⓒ Mindflayer's Mirror
 """
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('JAV STORE', url='https://telegram.me/JavStore_robot'),
-        InlineKeyboardButton('JAV X MOVIES', url='https://telegram.me/JAVSTORE_ROBOT')
+        InlineKeyboardButton('⚙️ Owner ⚙️', url='https://telegram.me/arvinxoxo')
          ]]
     )
 
